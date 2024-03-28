@@ -1,0 +1,15 @@
+>> Log from rentals3
+Rental successful: client 11 rented Angels & Demons for $7.99
+Total: $7.99 [$7.75]
+Movie returned with 1 day of delay: client 25 returned Jurassic Park
+Total: $2.00 [$1.92]
+Movie currently not available: client 34 asked for Inglorious Basterds
+Rental successful: client 12 rented E.T. the Extra-Terrestrial for $0.99
+Total: $0.99 [$0.97]
+Movie returned with 1 day of delay: client 4 returned Mad Max: Fury Road
+Total: $2.00 [$1.91]
+Movie currently not available: client 16 asked for Johnny English
+
+
+Revenue: $12.98
+Profit: $12.55

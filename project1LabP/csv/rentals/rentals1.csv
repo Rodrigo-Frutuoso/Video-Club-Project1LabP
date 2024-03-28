@@ -1,0 +1,5 @@
+TransactionType, User, Movie
+rent,101,Harry Potter and the Philosopher's Stone
+rent,101,Harry Potter and the Half-Blood Prince
+return,103,Harry Potter and the Half-Blood Prince
+rent,5,SLHECL

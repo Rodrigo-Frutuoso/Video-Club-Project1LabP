@@ -1,0 +1,12 @@
+>> Log from rentals1
+Movie not found: client 101 asked for Harry Potter and the Philosopher's Stone
+Rental successful: client 101 rented Harry Potter and the Half-Blood Prince for $4.99
+Total: $4.99 [$4.74]
+Movie returned with 2 days of delay: client 103 returned Harry Potter and the Half-Blood Prince
+Total: $4.00 [$3.80]
+Rental successful: client 5 rented Sherlock Holmes for $5.99
+Total: $5.99 [$5.81]
+
+
+Revenue: $14.98
+Profit: $14.35

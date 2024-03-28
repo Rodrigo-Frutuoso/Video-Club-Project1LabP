@@ -1,0 +1,11 @@
+>> Log from rentals2
+Movie not found: client 5 asked for SLHECL
+Rental successful: client 13 rented Barbie for $10.99
+Total: $10.99 [$10.28]
+Movie currently not available: client 27 asked for Barbie
+Movie returned: client 12 returned Harry Potter and the Half-Blood Prince
+Total: $0.00 [$0.00]
+
+
+Revenue: $10.99
+Profit: $10.28

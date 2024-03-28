@@ -1,0 +1,5 @@
+TransactionType, User, Movie
+rent,5,SLHECL
+rent,13,BIABER
+rent,27,BIABER
+return,12,HYTLPC
